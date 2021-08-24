@@ -4,7 +4,7 @@
     "plugins": [], // 插件
     "parser": "espree", // 解析器，默认为 espree
     "parserOptions":{}, // 更改解析器后的自定义规则
-    "rules": { // 
+    "rules": { // 自定义规则
         "semi":"error",
         "quotes":"warn"
     }
