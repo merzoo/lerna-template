@@ -1,2 +1,2 @@
-# react-admin-template
-react-admin-template
+# lerna-template
+lerna-template
