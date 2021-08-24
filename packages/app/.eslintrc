@@ -1,0 +1,11 @@
+{
+    "env": {}, // 启用环境
+    "extends": "eslint:recommended", // 拓展规则集
+    "plugins": [], // 插件
+    "parser": "espree", // 解析器，默认为 espree
+    "parserOptions":{}, // 更改解析器后的自定义规则
+    "rules": { // 
+        "semi":"error",
+        "quotes":"warn"
+    }
+}
